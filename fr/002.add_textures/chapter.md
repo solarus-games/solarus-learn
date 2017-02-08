@@ -22,9 +22,9 @@ Vous devrez ensuite lancer l'éditeur de quête, puis sélectionner "fichier -> 
 Attention, en préparant votre quête de cette manière, vous devrez spécifier un dossier pour les sauvegardes de votre jeu avant de l'exécuter, sinon, votre quête ne se lancera pas.
 Pour celà, ouvrez les propriétés de votre quête et donnez un nom à ce répertoire dans l'encadré correspondant. N'oubliez pas de sauvegarder les propriétés avant de l'exécuter.
 
-B) Ajouter les textures à une quête existante
+B) Ajouter les ressources à une quête existante
 
-Pour ajouter les textures à une quête déjà créée, vous devrez copier le contenu du dossier "data" de l'archive, en ommettant le fichier project_db.dat. Vous devez donc copier ces fichiers de cette manière:
+Pour ajouter les ressources à une quête déjà créée, vous devrez copier le contenu du dossier "data" de l'archive, en ommettant lees fichiers avec l'extension ".dat". Vous devez donc copier ces fichiers de cette manière:
 ![](../images/add_ressource_mode2.png)
 
 Ensuite, démarrez l'éditeur, et ouvrez votre quête.
